@@ -18,5 +18,5 @@ $ git spoof <author> <commit>
 # Example
 
 ```sh
-git spoof "Pikalex04 <pikalex@gmail.com>" 79bbe1db1525d3756608e580fa7e9fc87b1c99d4^C
+git spoof "Pikalex04 <pikalex@gmail.com>" 79bbe1db1525d3756608e580fa7e9fc87b1c99d4
 ```
